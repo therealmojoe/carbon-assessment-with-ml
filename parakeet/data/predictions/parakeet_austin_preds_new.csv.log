@@ -1,0 +1,43 @@
+INFO 2025-04-11 13:38:22,414 [utils.py:read_activities:315] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 13:38:22,447 [utils.py:read_activities:326] Read 4660 activities
+INFO 2025-04-11 13:38:22,449 [utils.py:read_activities:327] Will be processing between index 10 and 40
+INFO 2025-04-11 13:38:22,450 [utils.py:read_activities:335] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 13:38:23,070 [utils.py:get_naics_data:202] Loaded 1016 rows from https://pasteur.epa.gov/uploads/10.23719/1528686/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
+INFO 2025-04-11 13:52:45,064 [utils.py:read_activities:316] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 13:52:45,092 [utils.py:read_activities:327] Read 4660 activities
+INFO 2025-04-11 13:52:45,094 [utils.py:read_activities:328] Will be processing between index 10 and 40
+INFO 2025-04-11 13:52:45,095 [utils.py:read_activities:336] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 13:52:45,529 [utils.py:get_naics_data:203] Loaded 1016 rows from https://pasteur.epa.gov/uploads/10.23719/1528686/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
+INFO 2025-04-11 13:56:47,137 [utils.py:read_activities:316] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 13:56:47,165 [utils.py:read_activities:327] Read 4660 activities
+INFO 2025-04-11 13:56:47,166 [utils.py:read_activities:328] Will be processing between index 10 and 40
+INFO 2025-04-11 13:56:47,168 [utils.py:read_activities:336] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 13:56:47,532 [utils.py:get_naics_data:203] Loaded 1016 rows from https://pasteur.epa.gov/uploads/10.23719/1528686/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
+INFO 2025-04-11 14:01:23,570 [utils.py:read_activities:316] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 14:01:23,609 [utils.py:read_activities:327] Read 4660 activities
+INFO 2025-04-11 14:01:23,611 [utils.py:read_activities:328] Will be processing between index 10 and 40
+INFO 2025-04-11 14:01:23,613 [utils.py:read_activities:336] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 14:01:24,116 [utils.py:get_naics_data:203] Loaded 1016 rows from https://pasteur.epa.gov/uploads/10.23719/1528686/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
+INFO 2025-04-11 14:03:44,935 [utils.py:read_activities:315] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 14:03:44,973 [utils.py:read_activities:326] Read 4660 activities
+INFO 2025-04-11 14:03:44,976 [utils.py:read_activities:327] Will be processing between index 10 and 40
+INFO 2025-04-11 14:03:44,978 [utils.py:read_activities:335] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 14:03:45,477 [utils.py:get_naics_data:202] Loaded 1016 rows from https://pasteur.epa.gov/uploads/10.23719/1528686/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
+INFO 2025-04-11 14:29:17,046 [utils.py:read_activities:314] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 14:29:17,079 [utils.py:read_activities:325] Read 4660 activities
+INFO 2025-04-11 14:29:17,081 [utils.py:read_activities:326] Will be processing between index 10 and 40
+INFO 2025-04-11 14:29:17,082 [utils.py:read_activities:334] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 14:41:17,766 [utils.py:read_activities:315] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 14:41:17,798 [utils.py:read_activities:326] Read 4660 activities
+INFO 2025-04-11 14:41:17,800 [utils.py:read_activities:327] Will be processing between index 10 and 40
+INFO 2025-04-11 14:41:17,801 [utils.py:read_activities:335] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 15:13:05,372 [utils.py:read_activities:315] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 15:13:05,409 [utils.py:read_activities:326] Read 4660 activities
+INFO 2025-04-11 15:13:05,411 [utils.py:read_activities:327] Will be processing between index 10 and 40
+INFO 2025-04-11 15:13:05,412 [utils.py:read_activities:335] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 15:13:05,422 [utils.py:get_naics_data:202] Loaded 1016 rows from ../data/naics_data/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
+INFO 2025-04-11 15:23:49,342 [utils.py:read_activities:315] Reading ../data/raw/parakeet_austin.csv
+INFO 2025-04-11 15:23:49,380 [utils.py:read_activities:326] Read 4660 activities
+INFO 2025-04-11 15:23:49,381 [utils.py:read_activities:327] Will be processing between index 10 and 40
+INFO 2025-04-11 15:23:49,383 [utils.py:read_activities:335] User provided the following activity columns: ['COMMODITY_DESCRIPTION']
+INFO 2025-04-11 15:23:49,393 [utils.py:get_naics_data:202] Loaded 1016 rows from ../data/naics_data/SupplyChainGHGEmissionFactors_v1.2_NAICS_CO2e_USD2021.csv
