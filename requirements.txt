@@ -11,6 +11,6 @@ sentence-transformers==2.2.2
 tqdm==4.66.3
 nltk==3.9
 PyYAML
-awscli
+awscli>=1.25
 openpyxl==3.1.2
 xlrd==2.0.1
