@@ -13,4 +13,4 @@ nltk==3.9
 openpyxl==3.1.2
 xlrd==2.0.1
 PyYAML
-awscli=1.25.60
+awscli==1.25.60
