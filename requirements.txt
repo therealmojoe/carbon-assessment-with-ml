@@ -10,7 +10,7 @@ scikit-learn==1.5.0
 sentence-transformers==2.2.2
 tqdm==4.66.3
 nltk==3.9
-PyYAML
-awscli>=1.25
 openpyxl==3.1.2
 xlrd==2.0.1
+PyYAML
+awscli>=1.25
