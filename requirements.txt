@@ -12,5 +12,5 @@ tqdm==4.66.3
 nltk==3.9
 openpyxl==3.1.2
 xlrd==2.0.1
-PyYAML
+PyYAML==6.0.2
 awscli==1.25.60
