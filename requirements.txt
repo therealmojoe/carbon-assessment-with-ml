@@ -11,3 +11,4 @@ nltk==3.9
 openpyxl==3.1.2
 xlrd==2.0.1
 awscli==1.25.60
+cython
